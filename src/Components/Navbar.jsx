@@ -9,7 +9,7 @@ const Navbar = () => {
         <nav className="bg-gradient-to-r from-[#2E0A47] to-[#1A4D87] text-white shadow-lg sticky top-0 z-50">
             <div className="container mx-auto flex items-center justify-between p-5">
                 <motion.a
-                    href="#"
+                    href="/"
                     className="text-3xl font-extrabold tracking-wide text-[#9B6AE1]"
                     initial={{ opacity: 0, y: -20 }}
                     animate={{ opacity: 1, y: 0 }}
