@@ -1,0 +1,29 @@
+[
+    {
+        "imageUrl": "https://i.ibb.co.com/cSTqj4WH/Screenshot-2025-03-13-023221.png",
+        "title": "Medical camp Website",
+        "description": "A fully responsive e-commerce website with user authentication and payment integration.",
+        "techStack": [ "React", "Node.js", "Express", "MongoDB", "Tailwind CSS" ],
+        "githubClientLink": "https://github.com/Programming-Hero-Web-Course4/b10a12-client-side-Denurychowdhury",
+        "githubServerLink": "https://github.com/Programming-Hero-Web-Course4/b10a12-server-side-Denurychowdhury",
+        "livePreviewLink": "https://medical-camp-pro.web.app/"
+    },
+    {
+        "imageUrl": "https://i.ibb.co.com/m5jR7n97/vlhub.png",
+        "title": "VolunteerHub website",
+        "description": "A volunteer platform for HUmanity.",
+        "techStack": [ "React", "Tailwind CSS", "Framer Motion" ],
+        "githubClientLink": "https://github.com/programming-hero-web-course2/b10a11-client-side-Denurychowdhury?tab=readme-ov-file",
+        "githubServerLink": "https://github.com/programming-hero-web-course2/b10a11-server-side-Denurychowdhury",
+        "livePreviewLink": "https://volunteer-hub-8bc94.web.app/"
+    },
+    {
+        "imageUrl": "https://i.ibb.co.com/1fznXnZQ/gaming.png",
+        "title": "Chill gamer website",
+        "description": "A task management app with drag-and-drop functionality.",
+        "techStack": [ "React", "Firebase", "Material UI" ],
+        "githubClientLink": "https://github.com/programming-hero-web-course2/b10-a10-client-side-Denurychowdhury?tab=readme-ov-file",
+        "githubServerLink": "https://github.com/programming-hero-web-course2/b10-a10-server-side-Denurychowdhury",
+        "livePreviewLink": "https://chill-gamer-94238.web.app/"
+    }
+]
