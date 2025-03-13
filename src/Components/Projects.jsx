@@ -63,16 +63,6 @@ const Projects = ({ id }) => {
                                             Client Code
                                         </a>
                                     )}
-                                    {i.githubServerLink && (
-                                        <a
-                                            href={i.githubServerLink}
-                                            target="_blank"
-                                            rel="noopener noreferrer"
-                                            className="inline-block bg-indigo-600 text-white px-4 py-2 rounded-md text-sm hover:bg-indigo-700 transition-colors duration-300"
-                                        >
-                                            Server Code
-                                        </a>
-                                    )}
                                     {i.livePreviewLink && (
                                         <a
                                             href={i.livePreviewLink}

@@ -5,7 +5,7 @@ import profile from '../assets/profile.jpg'; // Replace with your image path
 const About = ({ id }) => {
     return (
         <section id={id} className="bg-[#1a1a2e] text-white py-20 px-6 md:px-12 lg:px-24 overflow-hidden">
-            <div className="max-w-7xl mx-auto flex flex-col-reverse md:flex-row items-center gap-10">
+            <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-10">
                 {/* Left Side - Circular Image */}
                 <motion.div
                     initial={{ opacity: 0, x: -50 }}
@@ -38,7 +38,7 @@ const About = ({ id }) => {
                         transition={{ duration: 0.8, delay: 0.2 }}
                         className="text-lg text-gray-300 leading-relaxed"
                     >
-                        I’m <span className="text-purple-300 font-semibold">Denury chowdhury</span>, a passionate <span className="text-purple-300 font-semibold">Junior Web Developer</span> with a diploma in Computer Engineering. I specialize in building responsive and user-friendly web applications.
+                        I’m <span className="text-purple-300 font-semibold">Denury Chowdhury</span>, a passionate <span className="text-purple-300 font-semibold">Junior Web Developer</span> with a diploma in Computer Engineering. I specialize in building responsive and user-friendly web applications.
                     </motion.p>
                     <motion.p
                         initial={{ opacity: 0, y: 20 }}
@@ -68,9 +68,8 @@ const About = ({ id }) => {
                 </motion.div>
             </div>
 
-            {/* Background Animated Circles */}
+            {/* Background Animated Circles (Optional) */}
         </section>
-
     );
 };
 
